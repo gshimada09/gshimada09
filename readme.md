@@ -29,11 +29,24 @@ Estou no começo da minha jornada na programação e quero evoluir muito na minh
 - 🚀 Meu objetivo é evoluir bastante na carreira de tecnologia
 - 📚 Estou sempre aprendendo e praticando com projetos da faculdade
 
+
+
 ## 📂 Projetos
 
 - [Sistema de Agendamento](https://github.com/gshimada09/sistema-de-agendamento): sistema multiplataforma com banco de dados em MySQL
+- [Exercícios em JavaScript](https://github.com/gshimada09/exercicios-javascript): exercícios de lógica de programação feitos na faculdade
+
+### 🟨 O que tem nos exercícios de JavaScript
+
+- **Lista de recuperação de Lógica de Programação**, dividida em 6 partes, com um arquivo `.js` por parte
+- **Mini sistema de biblioteca**, em JavaScript puro, com herança (Pessoa, Funcionário e Cliente), cadastro de livros e usuários, empréstimos, devoluções, filtros e menu interativo no terminal
+
+
+
+
 
 ## 📫 Contato
 
 - E-mail: [gustavoshimada10@gmail.com](mailto:gustavoshimada10@gmail.com)
 - GitHub: [@gshimada09](https://github.com/gshimada09)
+
